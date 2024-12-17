@@ -12,7 +12,7 @@ public class Main {
         if (clientOS == 1) {
                 System.out.println("Установите версию приложения для Android по ссылке");
         } else {
-            System.out.println("\"Выбрана версия приложения для iOS");
+            System.out.println("Выбрана версия приложения для iOS");
         }
         System.out.println();
         // task 2
